@@ -8,6 +8,9 @@ public class Test1 {
     file->staging area->local repository->remote repository
     1- create a file
     2- add the file to staging area
+        // to add the files into the staging area
+        //right-click on the file->go to Git->go to add->click to add
+        //for multiple files right click on Package
     3- commit your file one by one with explanation
     4- push your file from local master to remote(origin) master
 
@@ -31,7 +34,5 @@ public class Test1 {
 
      */
 
-    // to add the files into the staging area
-    //right-click on the file->go to Git->go to add->click to add
-    //for multiple files right click on Package
+
 }

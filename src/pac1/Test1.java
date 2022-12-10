@@ -9,6 +9,13 @@ public class Test1 {
     2- add the file to staging area
     3- commit your file one by one with explanation
     4- push your file from local master to remote(origin) master
+
+     reverse flow
+     (I am assuming) that my friend add some code in my file
+     I need to get updated version of the file
+     1- Fetch -> I want to see what is going on in remote repository
+
+
      */
 
     // to add the files into the staging area

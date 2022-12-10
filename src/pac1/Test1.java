@@ -14,7 +14,8 @@ public class Test1 {
      (I am assuming) that my friend add some code in my file
      I need to get updated version of the file
      1- Fetch -> I want to see what is going on in remote repository
-
+     2- Pull -> add changes into your local repository
+     OR Update -> also adding the changes into local repository
 
      */
 

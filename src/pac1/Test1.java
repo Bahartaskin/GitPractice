@@ -3,6 +3,7 @@ package pac1;
 public class Test1 {
 
     /*
+
     first flow
     file->staging area->local repository->remote repository
     1- create a file
@@ -17,6 +18,9 @@ public class Test1 {
      2- Pull -> add changes into your local repository
      OR Update -> also adding the changes into local repository
 
+     To make changes in safe environment make a copy
+     Branching
+     right click on your local master->write the branch name->create
      */
 
     // to add the files into the staging area

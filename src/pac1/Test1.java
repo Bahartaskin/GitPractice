@@ -4,23 +4,31 @@ public class Test1 {
 
     /*
 
-    first flow
+    ***first flow
     file->staging area->local repository->remote repository
     1- create a file
     2- add the file to staging area
     3- commit your file one by one with explanation
     4- push your file from local master to remote(origin) master
 
-     reverse flow
+     ***reverse flow
      (I am assuming) that my friend add some code in my file
      I need to get updated version of the file
      1- Fetch -> I want to see what is going on in remote repository
      2- Pull -> add changes into your local repository
      OR Update -> also adding the changes into local repository
 
-     To make changes in safe environment make a copy
+     ***To make changes in safe environment make a copy
      Branching
-     right click on your local master->write the branch name->create
+     right-click on your local master->write the branch name->create
+
+     To delete your branch
+     1-Checkout to master
+     2-Go to commit
+     3-Find the Rollback icon (under the commit to master)
+     4-Check the box says "Delete local copies.." ( if you want )
+     5-Click on Rollback
+
      */
 
     // to add the files into the staging area
